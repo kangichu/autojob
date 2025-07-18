@@ -1,0 +1,11 @@
+requests
+python-docx
+beautifulsoup4
+PyPDF2
+lxml
+selenium
+webdriver-manager
+python-dotenv
+user-agents
+transformers
+torch
